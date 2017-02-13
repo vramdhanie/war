@@ -1,0 +1,24 @@
+{
+  "name": "war",
+  "version": "0.0.1",
+  "description": "Simple HTML5 game based on Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vramdhanie/war.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "ES6"
+  ],
+  "author": "Vincent Ramdhanie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vramdhanie/war/issues"
+  },
+  "homepage": "https://github.com/vramdhanie/war#readme"
+}
